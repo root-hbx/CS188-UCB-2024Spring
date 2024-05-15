@@ -8,13 +8,16 @@
 
 Berkeley's introductory course in artificial intelligence. 
 
-The course content is basically arranged in the order of chapters of the classic artificial intelligence textbook "Artificial Intelligence: Modern Methods",
-
-- search pruning, constraint satisfaction problems, Markov decision processes, reinforcement learning, Bayesian networks, and hidden Markov models. As well as basic machine learning and neural network related content.
-
 This course is lead by Prof. [Lingling Zhang](https://gr.xjtu.edu.cn/en/web/zhanglling/home) @ XJTU
 
-## Structure
+## Syllabus
+
+The course content is basically arranged in the order of chapters of the classic artificial intelligence textbook "Artificial Intelligence: Modern Methods"
+
+- search pruning, constraint satisfaction problems, Markov decision processes, reinforcement learning, Bayesian networks, and hidden Markov models. 
+- basic machine learning and neural network related content.
+
+## Outline
 
 - slide_XJTU: contains class materials concerning IAI in XJTU
 - homework: my homework and analysis of each class
