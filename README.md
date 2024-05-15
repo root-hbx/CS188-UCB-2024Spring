@@ -1,2 +1,24 @@
 # CS188_Spring_2024
-CS188_Spring_2024 is a repo containing the notes of CS188 and it's focused on Introduction to Artificial Intelligence
+
+## Introduction
+
+[CS188](https://inst.eecs.berkeley.edu/~cs188/fa22/): Introduction to Artificial Intelligence
+
+>CS188_Spring_2024 is a repo containing the notes of CS188 and it's focused on Introduction to Artificial Intelligence (IAI)
+
+Berkeley's introductory course in artificial intelligence. 
+
+The course content is basically arranged in the order of chapters of the classic artificial intelligence textbook "Artificial Intelligence: Modern Methods",
+
+- search pruning, constraint satisfaction problems, Markov decision processes, reinforcement learning, Bayesian networks, and hidden Markov models. As well as basic machine learning and neural network related content.
+
+This course is lead by Prof. [Lingling Zhang](https://gr.xjtu.edu.cn/en/web/zhanglling/home) @ XJTU
+
+## Structure
+
+- slide_XJTU: contains class materials concerning IAI in XJTU
+- homework: my homework and analysis of each class
+- notes: my understanding and summary of each class
+- materials_UCB: class notes of [CS188](https://inst.eecs.berkeley.edu/~cs188/fa22/)
+- refbook: [Artificial Intelligence - A Modern Method](https://inst.eecs.berkeley.edu/~cs188/fa22/resources/)
+
