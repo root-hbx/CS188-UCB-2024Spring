@@ -1,3 +1,5 @@
+# Chapter 5 Beyond Classical Search
+
 >- 对应于 "Artificial Intelligence - A Modern Approach (3rd Edition)" 中的 Chapter 4
 >- BEYOND CLASSICAL SEARCH (4.1~4.6)
 
@@ -168,16 +170,16 @@ def(信念状态)：在给定 _行动序列和感知信息_ 的情况下用来�
 
 2. 观察预测阶段，确定预测信念状态里可观察到的感知𝑜的集合：
 
->${Possible}-{Percepts}-{Set}(b^*) = \{o: o = PERCEPT(S) \&\& s \in b\}$
+> ${Possible}-{Percepts}-{Set}(b^*) = \{o: o = PERCEPT(S) And s \in b\}$
 
 3. 更新阶段，对于每个可能的感知信息，确定可能得到的 _新的信念状态_ 。新的信念状态 $b_0$ 是 $b^*$ 中可能产生该感知的状态的集合（子集）
 
->$b_0 = UPDATE(b^*, o) = \{s: o = PERCEPT(s) \&\& s \in b^*\}$
+> $b_0 = UPDATE(b^*, o) = \{s: o = PERCEPT(s) And s \in b^*\}$
 
 
 综上所述，对于给定的初始信念状态𝑏、行动𝑎、感知𝑜，则新的信念状态为：
 
->$b^* = UPDATE(PREDICT(b, a), o)$
+> $b^* = UPDATE(PREDICT(b, a), o)$
 
 ### 部分可观察环境中的Agent
 
