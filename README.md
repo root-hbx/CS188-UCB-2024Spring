@@ -23,5 +23,7 @@ The course content is basically arranged in the order of chapters of the classic
 - homework: my homework and analysis of each class
 - notes: my understanding and summary of each class
 - materials_UCB: class notes of [CS188](https://inst.eecs.berkeley.edu/~cs188/fa22/)
+- slide_UCB_2023: slides of [CS188](https://inst.eecs.berkeley.edu/~cs188/fa23/)
+- project_UCB_2023: project of [CS188](https://inst.eecs.berkeley.edu/~cs188/fa23/)
 - refbook: [Artificial Intelligence - A Modern Method](https://inst.eecs.berkeley.edu/~cs188/fa22/resources/)
 
